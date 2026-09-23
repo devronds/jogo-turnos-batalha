@@ -113,5 +113,5 @@ class Jogo:
             
 
 
-heroi_s = Heroi.personagem_supremo()
-print(heroi_s)
+jogo1 = Jogo()
+jogo1.iniciarbatalha()
